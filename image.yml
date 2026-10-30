@@ -10,6 +10,9 @@ upstream:
   version:
     type: github_release
     repo: Jackett/Jackett
+    require_assets:
+      - asset: '^Jackett\.Binaries\.LinuxMuslAMDx64\.tar\.gz$'
+      - asset: '^Jackett\.Binaries\.LinuxMuslARM64\.tar\.gz$'
   notes:
     type: github_release
     repo: Jackett/Jackett
