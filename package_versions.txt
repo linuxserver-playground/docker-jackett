@@ -7,7 +7,7 @@ BencodeNET                                                   4.0.0              
 CommandLineParser                                            2.9.1                  dotnet  (+1 duplicate)  
 DotNet4.SocksProxy                                           1.4.0.1                dotnet  (+1 duplicate)  
 FlareSolverrSharp                                            4.0.0                  dotnet  (+1 duplicate)  
-JackettUpdater                                               0.25.8                 dotnet                  
+JackettUpdater                                               0.25.20                dotnet                  
 Microsoft.AspNetCore.Http                                    2.3.14                 dotnet                  
 Microsoft.AspNetCore.Http.Abstractions                       2.3.13                 dotnet                  
 Microsoft.AspNetCore.Http.Features                           2.3.12                 dotnet                  
@@ -56,12 +56,12 @@ curl                                                         8.23.0-r0          
 findutils                                                    4.10.0-r1              apk                     
 icu-data-full                                                78.1-r0                apk                     
 icu-libs                                                     78.1-r0                apk                     
-jackett                                                      0.25.8                 dotnet                  
+jackett                                                      0.25.20                dotnet                  
 jq                                                           1.8.2-r0               apk                     
 libapk                                                       3.0.9-r0               apk                     
 libattr                                                      2.5.2-r2               apk                     
 libbsd                                                       0.12.2-r0              apk                     
-libcrypto3                                                   3.5.9-r0               apk                     
+libcrypto3                                                   3.5.9-r1               apk                     
 libcurl                                                      8.23.0-r0              apk                     
 libgcc                                                       15.2.0-r5              apk                     
 libidn2                                                      2.3.8-r0               apk                     
@@ -70,7 +70,7 @@ libmd                                                        1.2.0-r0           
 libncursesw                                                  6.6_p20260516-r0       apk                     
 libproc2                                                     4.0.6-r0               apk                     
 libpsl                                                       0.21.5-r3              apk                     
-libssl3                                                      3.5.9-r0               apk                     
+libssl3                                                      3.5.9-r1               apk                     
 libstdc++                                                    15.2.0-r5              apk                     
 libunistring                                                 1.4.2-r0               apk                     
 linux-pam                                                    1.7.1-r2               apk                     
